@@ -8,3 +8,4 @@ Fix my code: bug fixes across an existing multi-language code base.
 | ---- | ---- | ----------- |
 | 0 | [0-fizzbuzz.py](0-fizzbuzz.py) | Fix FizzBuzz so multiples of 15 print "FizzBuzz" |
 | 1 | [1-print_square.js](1-print_square.js) | Fix print_square to parse the size argument in base 10 |
+| 2 | [2-sort.rb](2-sort.rb) | Fix insertion sort's insert index off-by-one |
